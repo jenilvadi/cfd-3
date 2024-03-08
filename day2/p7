@@ -1,0 +1,10 @@
+#include<stdio.h>
+void main()
+{
+   float a=6,b=7,c,d=2,e;
+   
+    c=a+b;
+    e=d*c;
+    
+    printf("perimeter of a rectangle given its length and width:%f",e);
+}
